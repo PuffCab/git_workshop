@@ -6,3 +6,7 @@ for (let index = 0; index < sentences.length; index++) {
 }
 
 console.log("asdasdasd");
+
+function sum() {
+  return 1 + 2;
+}
